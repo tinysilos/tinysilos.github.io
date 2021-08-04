@@ -1,4 +1,4 @@
-baseURL = 'http://tinysilos.com/'
+baseURL = 'https://tinysilos.com/'
 languageCode = 'en-us'
 title = 'TinySilos!'
 theme = 'clarity'
